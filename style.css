@@ -335,7 +335,7 @@ h2{
     font-size: 16px;
 }
 
-@media only screen and (max-width:500px){
+@media only screen and (max-width:700px){
 .hizmet{clear: both;
     width: 80%;
 
