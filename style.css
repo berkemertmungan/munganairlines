@@ -335,7 +335,7 @@ h2{
     font-size: 16px;
 }
 
-@media only screen and (max-width:700px){
+@media only screen and (max-width:768px){
 .hizmet{clear: both;
     width: 80%;
 
@@ -351,9 +351,6 @@ h2{
 }
 .on{
     text-align: center;
-}
-.form{
-    width: 100%;
 }
 .adres{
     width: 100%;
